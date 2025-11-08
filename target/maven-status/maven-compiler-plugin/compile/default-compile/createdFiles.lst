@@ -1,0 +1,5 @@
+cli\MainCLI.class
+util\Util.class
+service\LinkService.class
+domain\ShortLink.class
+storage\InMemoryStorage.class
